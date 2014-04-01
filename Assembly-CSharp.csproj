@@ -46,7 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\PlayerControl.cs" />
+     <Compile Include="Assets\GroundCheck.cs" />
+     <Compile Include="Assets\Resources\Scripts\Ground.cs" />
+     <Compile Include="Assets\Resources\Scripts\PlayerControl.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
