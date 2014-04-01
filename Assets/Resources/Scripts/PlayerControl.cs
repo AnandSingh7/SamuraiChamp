@@ -32,12 +32,13 @@ public class PlayerControl : MonoBehaviour {
 		anim.SetBool ("Grounded", bGrounded);
 
 		//Move the character
-		float move = Input.GetAxis ("Horizontal");
+		//float move = Input.GetAxis ("Horizontal");
+		float move = 1;
 
 		anim.SetFloat ("Speed", Mathf.Abs (move));
 		anim.SetFloat ("vSpeed", rigidbody2D.velocity.y);
 
-		rigidbody2D.velocity = new Vector2 (move * maxSpeed/20, rigidbody2D.velocity.y);
+		rigidbody2D.velocity = new Vector2 (move * maxSpeed, rigidbody2D.velocity.y);
 
 	}
 

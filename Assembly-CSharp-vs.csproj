@@ -46,8 +46,9 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\GroundCheck.cs" />
+     <Compile Include="Assets\Resources\Scripts\CameraControl.cs" />
      <Compile Include="Assets\Resources\Scripts\Ground.cs" />
+     <Compile Include="Assets\Resources\Scripts\GroundCheck.cs" />
      <Compile Include="Assets\Resources\Scripts\PlayerControl.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
