@@ -1,0 +1,378 @@
+fileFormatVersion: 2
+guid: d67d44bc8726ae4428eb086c57cf8614
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SamuraiGrapperSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 464
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 464
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 464
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 464
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 389
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 389
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 389
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 389
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 389
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 389
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 462
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 462
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 462
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 462
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 455
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 5
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 5
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 6
+        width: 56
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 6
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 97
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 97
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 98
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 93
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 55
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 7
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 7
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 6
+        width: 96
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 5
+        width: 83
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 5
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 198
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 197
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 195
+        width: 109
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 195
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 194
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: SamuraiGrapperSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 196
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
