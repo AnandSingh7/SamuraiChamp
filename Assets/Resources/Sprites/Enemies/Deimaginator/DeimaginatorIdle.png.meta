@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: ce990bccf1561e34e95629bdb6977c98
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 186
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_deimaginator__x1_idle1_png_1354836029_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_5
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_6
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_7
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_8
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_9
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_10
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_11
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_12
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_13
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_14
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_19
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_20
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_21
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_22
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_23
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_24
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_25
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_26
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_27
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_28
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_29
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_32
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_33
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_34
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_35
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_36
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_37
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_38
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_39
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_40
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_41
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_42
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_43
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_44
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_46
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_47
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_48
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_49
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_50
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_51
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_52
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_53
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_54
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_55
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_56
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_57
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_58
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_59
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_62
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_63
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_64
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_65
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_66
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_67
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_68
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_69
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_70
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_71
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_72
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_73
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_74
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_76
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_77
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_78
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_79
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_80
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_81
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_82
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_83
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_84
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_85
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_86
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_87
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_88
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_89
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_91
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_92
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_93
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_94
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_95
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_96
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_97
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_98
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_99
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_100
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_101
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_102
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_103
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_104
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_106
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_107
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_108
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_109
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_110
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_111
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_112
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_113
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_114
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_115
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_116
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_117
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_118
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_119
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_121
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_122
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_123
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_124
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_125
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_126
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_127
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_128
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_129
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_130
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_131
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_132
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_133
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_deimaginator__x1_idle1_png_1354836029_134
+      rect:
+        serializedVersion: 2
+        x: 3514
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
