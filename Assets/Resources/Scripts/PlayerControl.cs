@@ -24,6 +24,11 @@ public class PlayerControl : MonoBehaviour {
 			anim.SetBool("Grounded", false);
 			jump ();
 		}
+
+		if (Input.GetButtonDown ("GroundAttack")) {
+			anim.SetBool ("Grounded", true);
+			groundAttack ();
+		}
 	}
 
 	void FixedUpdate() {
@@ -55,5 +60,9 @@ public class PlayerControl : MonoBehaviour {
 	void jump() {
 		anim.SetTrigger ("Jump");
 		rigidbody2D.AddForce (new Vector2(0f,jumpForce));
+	}
+
+	void groundAttack() {
+		anim.SetTrigger ("GroundAttack");
 	}
 }
