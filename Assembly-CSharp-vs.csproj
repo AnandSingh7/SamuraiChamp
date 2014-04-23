@@ -46,10 +46,15 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\ExitButton.cs" />
+     <Compile Include="Assets\MenuText.cs" />
      <Compile Include="Assets\Resources\Scripts\CameraControl.cs" />
      <Compile Include="Assets\Resources\Scripts\Ground.cs" />
      <Compile Include="Assets\Resources\Scripts\GroundCheck.cs" />
      <Compile Include="Assets\Resources\Scripts\PlayerControl.cs" />
+     <Compile Include="Assets\StartGameButton.cs" />
+     <None Include="Assets\Resources\Sprites\UIpack_RPG\Spritesheet\uipack_rpg_sheet.xml" />
+     <None Include="Assets\Resources\Sprites\UIpack_RPG\license.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
