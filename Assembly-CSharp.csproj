@@ -46,14 +46,14 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\ExitButton.cs" />
-     <Compile Include="Assets\MenuText.cs" />
      <Compile Include="Assets\Resources\Scripts\CameraControl.cs" />
      <Compile Include="Assets\Resources\Scripts\CombatSystem.cs" />
+     <Compile Include="Assets\Resources\Scripts\ExitButton.cs" />
      <Compile Include="Assets\Resources\Scripts\Ground.cs" />
      <Compile Include="Assets\Resources\Scripts\GroundCheck.cs" />
+     <Compile Include="Assets\Resources\Scripts\MenuText.cs" />
      <Compile Include="Assets\Resources\Scripts\PlayerControl.cs" />
-     <Compile Include="Assets\StartGameButton.cs" />
+     <Compile Include="Assets\Resources\Scripts\StartGameButton.cs" />
      <None Include="Assets\Resources\Sprites\UIpack_RPG\Spritesheet\uipack_rpg_sheet.xml" />
      <None Include="Assets\Resources\Sprites\UIpack_RPG\license.txt" />
   </ItemGroup>
