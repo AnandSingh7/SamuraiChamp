@@ -20,6 +20,9 @@ public class PlayerControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
+
+
 		if (bGrounded && Input.GetButtonDown ("Jump")) {
 			anim.SetBool("Grounded", false);
 			jump ();
@@ -29,6 +32,8 @@ public class PlayerControl : MonoBehaviour {
 			anim.SetBool ("Grounded", true);
 			groundAttack ();
 		}
+
+		Physics2D.IgnoreLayerCollision (9, 12);
 	}
 
 	void FixedUpdate() {
@@ -65,4 +70,5 @@ public class PlayerControl : MonoBehaviour {
 	void groundAttack() {
 		anim.SetTrigger ("GroundAttack");
 	}
+
 }
