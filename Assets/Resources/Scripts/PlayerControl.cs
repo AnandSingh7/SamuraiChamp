@@ -13,6 +13,11 @@ public class PlayerControl : MonoBehaviour {
 
 	public float jumpForce = 40f;
 
+	// for detecting if an attack hits
+	public bool interact = false;
+	public Transform lineStart, lineEnd;
+	RaycastHit2D whatIHit;
+
 	// Use this for initialization
 	void Start () {
 		anim = GetComponent<Animator> ();
@@ -34,6 +39,9 @@ public class PlayerControl : MonoBehaviour {
 		}
 
 		Physics2D.IgnoreLayerCollision (9, 12);
+
+		raycasting ();
+
 	}
 
 	void FixedUpdate() {
@@ -69,6 +77,20 @@ public class PlayerControl : MonoBehaviour {
 
 	void groundAttack() {
 		anim.SetTrigger ("GroundAttack");
+	}
+
+	void raycasting() {
+		Debug.DrawLine (lineStart.position, lineEnd.position, Color.green);
+
+		if (Physics2D.Linecast (lineStart.position, lineEnd.position, 1 << LayerMask.NameToLayer ("Bat"))) {
+			whatIHit = Physics2D.Linecast (lineStart.position, lineEnd.position, 1 << LayerMask.NameToLayer ("Bat"));
+			interact = true;
+		} else {
+			interact = false;
+		}
+		if (Input.GetButtonDown ("GroundAttack") && interact == true) {
+			Destroy (whatIHit.collider.gameObject);
+		}
 	}
 
 }
