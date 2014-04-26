@@ -1,12 +1,6 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ExitButton.cs">
-    <Files>
-      <File FileName="..\AndroidSpeleo\Assets\Resources\Scripts\Bar.cs" Line="27" Column="2" />
-      <File FileName="Assets\MenuText.cs" Line="23" Column="1" />
-      <File FileName="Assets\ExitButton.cs" Line="18" Column="23" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
