@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+[RequireComponent (typeof (AudioSource))]
 public class PlayerControl : MonoBehaviour {
 
 	public Animator anim;
@@ -13,9 +14,14 @@ public class PlayerControl : MonoBehaviour {
 
 	public float jumpForce = 40f;
 
+	// attack cooldown
+	public float nextAttackAllowed;
+
 	// for detecting if an attack hits
 	public bool interact = false;
 	public Transform lineStart, lineEnd;
+	public Transform lineStart2, lineEnd2;
+	public Transform lineStart3, lineEnd3;
 	RaycastHit2D whatIHit;
 
 	// Use this for initialization
@@ -26,16 +32,16 @@ public class PlayerControl : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-
-
 		if (bGrounded && Input.GetButtonDown ("Jump")) {
 			anim.SetBool("Grounded", false);
 			jump ();
 		}
 
-		if (Input.GetButtonDown ("GroundAttack")) {
-			anim.SetBool ("Grounded", true);
+
+		if (Input.GetButtonDown ("GroundAttack") && nextAttackAllowed <= Time.time) {
 			groundAttack ();
+			audio.Play ();
+			nextAttackAllowed = Time.time + .3f; // player can only attack ever .3second.
 		}
 
 		Physics2D.IgnoreLayerCollision (9, 12);
@@ -57,7 +63,6 @@ public class PlayerControl : MonoBehaviour {
 		anim.SetFloat ("vSpeed", rigidbody2D.velocity.y);
 
 		rigidbody2D.velocity = new Vector2 (move * maxSpeed, rigidbody2D.velocity.y);
-
 	}
 
 	void isGrounded()
@@ -73,17 +78,39 @@ public class PlayerControl : MonoBehaviour {
 	void jump() {
 		anim.SetTrigger ("Jump");
 		rigidbody2D.AddForce (new Vector2(0f,jumpForce));
+
 	}
 
 	void groundAttack() {
 		anim.SetTrigger ("GroundAttack");
+		audio.Play ();
 	}
-
+	
 	void raycasting() {
 		Debug.DrawLine (lineStart.position, lineEnd.position, Color.green);
+		Debug.DrawLine (lineStart2.position, lineEnd2.position, Color.green);
+		Debug.DrawLine (lineStart3.position, lineEnd3.position, Color.green);
 
 		if (Physics2D.Linecast (lineStart.position, lineEnd.position, 1 << LayerMask.NameToLayer ("Bat"))) {
 			whatIHit = Physics2D.Linecast (lineStart.position, lineEnd.position, 1 << LayerMask.NameToLayer ("Bat"));
+			interact = true;
+		} else {
+			interact = false;
+		}
+		if (Input.GetButtonDown ("GroundAttack") && interact == true) {
+			Destroy (whatIHit.collider.gameObject);
+		}
+		if (Physics2D.Linecast (lineStart2.position, lineEnd2.position, 1 << LayerMask.NameToLayer ("Bat"))) {
+			whatIHit = Physics2D.Linecast (lineStart2.position, lineEnd2.position, 1 << LayerMask.NameToLayer ("Bat"));
+			interact = true;
+		} else {
+			interact = false;
+		}
+		if (Input.GetButtonDown ("GroundAttack") && interact == true) {
+			Destroy (whatIHit.collider.gameObject);
+		}
+		if (Physics2D.Linecast (lineStart3.position, lineEnd3.position, 1 << LayerMask.NameToLayer ("Bat"))) {
+			whatIHit = Physics2D.Linecast (lineStart3.position, lineEnd3.position, 1 << LayerMask.NameToLayer ("Bat"));
 			interact = true;
 		} else {
 			interact = false;
