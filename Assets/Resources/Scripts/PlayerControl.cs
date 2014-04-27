@@ -119,5 +119,4 @@ public class PlayerControl : MonoBehaviour {
 			Destroy (whatIHit.collider.gameObject);
 		}
 	}
-
 }
