@@ -1,8 +1,17 @@
 ﻿<Properties>
+<<<<<<< HEAD
   <MonoDevelop.Ide.Workspace />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\Bar.cs">
     <Files>
       <File FileName="Assets\Resources\Scripts\Bar.cs" Line="22" Column="36" />
+=======
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Resources\Scripts\CameraControl.cs">
+    <Files>
+      <File FileName="Assets\Resources\Scripts\Bar.cs" Line="17" Column="39" />
+      <File FileName="Assets\Resources\Scripts\PlayerControl.cs" Line="123" Column="2" />
+      <File FileName="Assets\Resources\Scripts\CameraControl.cs" Line="21" Column="1" />
+>>>>>>> 767325ece0805412cda8e3cbdb72bf16f6e75f5a
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
